@@ -73,5 +73,7 @@ Flutter의 릴리즈 컴파일은 AOT 모드를 선택했다. 때문에 플랫�
 ## Ref
 
 (가장 많이 참고한 자료)[https://proandroiddev.com/flutters-compilation-patterns-24e139d14177]
+
 (디테일 확인)[https://doc.xuwenliang.com/docs/dart-flutter/4838]
+
 (디테일 확인)[https://api.dart.dev/stable/2.1.0/dart-isolate/Isolate-class.html]
