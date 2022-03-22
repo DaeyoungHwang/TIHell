@@ -59,3 +59,13 @@ class MyApp extends StatelessWidget {
 ```
 
 ![tutorial_hello_world](./images/tutorial_hello_world.JPG)
+
+## 분석
+
+- 해당 예제에서는 Material 을 사용하여 App을 만든것을 볼 수 있다.
+- Material은 mobile, web에서 표준이 되는 시각 디자인 언어이다.
+- Flutter는 Material에 맞는 풍부한 Widget을 제공하고 이를 이용하여 App을 구현할 수 있다.
+- Material Design을 사용하기 위해선 pubspec.yaml의 `flutter` 섹션에 `uses-material-design: true`을 추가하면 된다.
+- StatelessWidget은 App 자체를 widget으로 만드는 App extends이다.
+- Scaffold widget은 widget tree로 기본 app bar 와 화면을 구성할 수 있는 Material library이다.
+- widget은 build란 method를 제공하고 이 methed 에는 하위 레벨 widget을 기술한다.
