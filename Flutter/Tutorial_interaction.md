@@ -1,4 +1,4 @@
-# interation
+# interaction
 
 ListTile의 onTap 메서드를 추가하여 상호작용을 구현해본다.
 
