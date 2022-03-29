@@ -211,15 +211,15 @@ canvas.drawPath(path, paint);
 
 ```Dart
 Paint paint = Paint()
-    ..color = Colors.yellow
-    ..style = PaintingStyle.stroke
-    ..strokeWidth = 8.0;
-  Path path = Path()
-    ..moveTo(0, size.height / 2)
-    ..quadraticBezierTo(
-      size.width / 2, size.height, size.width, size.height / 2);
-  canvas.drawPath(path, paint);
-  canvas.drawPath(path, paint);
+  ..color = Colors.yellow
+  ..style = PaintingStyle.stroke
+  ..strokeWidth = 8.0;
+Path path = Path()
+  ..moveTo(0, size.height / 2)
+  ..quadraticBezierTo(
+    size.width / 2, size.height, size.width, size.height / 2);
+canvas.drawPath(path, paint);
+canvas.drawPath(path, paint);
 ```
 
 ## ref
