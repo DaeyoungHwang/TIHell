@@ -11,3 +11,5 @@
 - 2022.03.28 [Tutorial_interaction](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/Tutorial_interaction.md)
 - 2022.03.28 [Tutorial_navigation](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/Tutorial_navigation.md)
 - 2022.03.29 [CustomPaint](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/CustomPaint.md)
+- 2022.03.30 [Tutorial_custom_chart](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/Tutorial_custom_chart.md)
+- 2022.03.30 [EdgeInsets](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/EdgeInsets.md)
