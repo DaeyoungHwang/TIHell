@@ -13,3 +13,4 @@
 - 2022.03.29 [CustomPaint](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/CustomPaint.md)
 - 2022.03.30 [Tutorial_custom_chart](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/Tutorial_custom_chart.md)
 - 2022.03.30 [EdgeInsets](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/EdgeInsets.md)
+- 2022.03.31 [GetX](https://github.com/DaeyoungHwang/TIHell/blob/main/Flutter/GetX.md)
